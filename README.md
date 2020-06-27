@@ -1,4 +1,4 @@
-# vue2-step-by-step
+# VueJS 2 - Step by Step
 
 ## Project setup
 ```
