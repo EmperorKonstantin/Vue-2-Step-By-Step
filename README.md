@@ -1,4 +1,9 @@
-# VueJS 2 - Step by Step
+<div align="center">
+    <img src="https://vuejs.org/images/logo.png" width="150">
+    <br />
+    <h1>VueJS 2 - Step by Step</h1>
+</div>
+
 
 ## Project setup
 ```
